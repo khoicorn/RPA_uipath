@@ -1,4 +1,4 @@
-#1. DATA TYPES OVERVIEW:
+## 1. DATA TYPES OVERVIEW:
 Numeric
 - Int32 (signed integers): 10, 299, -100
 - Long (Int64, long integers): 5425425532
