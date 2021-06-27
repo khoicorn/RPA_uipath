@@ -1,4 +1,4 @@
-## 1. Overview of Data Types
+## 1. Data Types overview:
 Numeric
 - Int32 (signed integers): 10, 299, -100
 - Long (Int64, long integers): 5425425532
@@ -21,3 +21,5 @@ Collection
 Generic Variables:
 When developing an automation process, you are not sure what type of data will be retrieved
 - Can store any kind of data. The data type will be based on the first retrieved data 
+
+## 2. Control Flow overview:
