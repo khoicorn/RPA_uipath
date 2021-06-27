@@ -23,3 +23,14 @@ When developing an automation process, you are not sure what type of data will b
 - Can store any kind of data. The data type will be based on the first retrieved data 
 
 ## 2. Control Flow overview:
+Sequences
+- Easy to read, edit
+- Recommended for Linear workflows
+Flowcharts
+- More complex
+- Recommended for complex scenarios, branches
+
+Statements:
+if/else decision
+loops
+switch
