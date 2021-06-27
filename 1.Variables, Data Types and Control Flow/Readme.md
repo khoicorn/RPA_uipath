@@ -26,6 +26,7 @@ When developing an automation process, you are not sure what type of data will b
 Sequences
 - Easy to read, edit
 - Recommended for Linear workflows
+
 Flowcharts
 - More complex
 - Recommended for complex scenarios, branches
@@ -34,3 +35,15 @@ Statements:
 if/else decision
 loops
 switch
+
+### A. Loops
+- Do While
+1. Execute the actions
+2. Check conditions -> If it's true then continue to do it
+
+- While
+1. Check conditions -> If it's true then do the following actions
+2. Execute the actions
+
+- For Each
+Iterating all items in a list/ array
